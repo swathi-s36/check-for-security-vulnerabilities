@@ -1,0 +1,9 @@
+Hello!
+
+Welcome to Dragline!
+
+The following are the tests for the beginner level user:
+
+1. Basic sql injection tests -> No database enumeration, no additional query execution
+2. Test for verifying presence of HSTS header
+3. Test for verifying if the components used are in the latest version 

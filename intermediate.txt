@@ -1,0 +1,11 @@
+Hello...
+
+Welcome to Dragline!
+
+The following are the tests performed for the intermediate level:
+
+1) SQL Injection with additional database enumeration
+2) Verifying presence of HSTS header to avoid Man-In-The-Middle attack
+3) Perform cross-site scripting crawling through all webpages of the website
+4) Confirm availability of valid ssl certificate, verify usage of latest versions of components used
+
